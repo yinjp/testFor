@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+*.iml
+*/*.iml
+.DS_Store
+
+## Directory-based project format:
+.idea/
+
+target/
+
+logs/
+*/logs
+.classpath
+.project
+build.properties
+*.class
+classes/
+src/main/test/
